@@ -1,0 +1,13 @@
+<dependencies>
+  <androidPackages>
+
+<androidPackage spec="io.github.tapmind-tech:customadapter-admob:3.0.2">
+        <repositories>
+            <repository>https://maven.google.com/</repository>
+            <repository>https://repo.maven.apache.org/maven2/</repository>
+            <repository>https://dl.google.com/dl/android/maven2/</repository>
+            <repository>https://jitpack.io</repository>
+        </repositories>
+    </androidPackage>
+  </androidPackages>
+</dependencies>
