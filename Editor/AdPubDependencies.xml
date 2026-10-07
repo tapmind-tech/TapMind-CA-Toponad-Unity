@@ -1,7 +1,7 @@
 <dependencies>
   <androidPackages>
 
-<androidPackage spec="com.tapmind:customadapter-topon:3.0.0">
+<androidPackage spec="com.tapmind:customadapter-topon:3.0.1">
         <repositories>
             <repository>https://maven.google.com/</repository>
             <repository>https://repo.maven.apache.org/maven2/</repository>

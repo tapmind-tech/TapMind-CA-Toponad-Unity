@@ -1,7 +1,7 @@
 {
   "name": "com.tapmind.topon.customadapter",
   "displayName": "TapMind TopOn Custom Adapter",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "unity": "2019.4",
   "description": "Unity package to install TapMind TopOn custom adapters and native Android SDK dependencies.",
   "author": {
